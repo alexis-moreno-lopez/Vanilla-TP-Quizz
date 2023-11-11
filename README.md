@@ -9,8 +9,7 @@ Le jeu doit être fun et pouvoir se partager entre amis pour comparer les scores
 Vous pouvez choisir librement la quantité de javascript que vous allez mettre pour dynamiser et fluidifier l'expérience de jeu.
 
 
-#  \
-📜 Scénarios utilisateurs minimum requis
+#  📜 Scénarios utilisateurs minimum requis
 
 
 ## 
