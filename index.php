@@ -9,9 +9,9 @@ include_once('../partials/headerNone.php');
 ?>
 
   <div class="d-flex justify-content-center">
-   
+   <div></div>
   <form action="../procces/traitementIndex.php" method="post">
-  <form>
+
   <div class="mb-3">
     <label for="exampleInputEmail1" class="form-label">Pseudo</label>
     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
